@@ -13,7 +13,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 ---
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Brito-Bechelli&show_icons=true&theme=tokyonight) | ![Gabriel Cordeiro's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Brito-Bechelli&layout=donut&theme=tokyonight&hide_border=true) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Brito-Bechelli&show_icons=true&theme=tokyonight) | ![Gustavo Brito's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Brito-Bechelli&layout=donut&theme=tokyonight&hide_border=true) |
 | --- | --- |
 
 ---
@@ -29,7 +29,7 @@
 
 **Utilidades**
 
-![Flet](https://img.shields.io/badge/-Flet-333333?style=flat&logo=flask)
+![Flet](https://img.shields.io/badge/-Flet-333333?style=flat&logo=flet)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastAPI)
 
