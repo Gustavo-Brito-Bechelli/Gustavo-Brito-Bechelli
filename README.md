@@ -18,9 +18,9 @@
 | --- | --- |
 
 ---
-## 🚀 My Skills
+## 🚀 Minhas abilidades ( My skills )
 
-**Aplicações e dados**
+**Aplicações e Dados ( Applications and Data )**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -28,17 +28,17 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
+**Utilidades ( Utilities )**
 
 ![Flet](https://img.shields.io/badge/-Flet-333333?style=flat&logo=flet)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastAPI)
 
-**DevOps**
+**DevOps ( DevOps )**
 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de desenvolvimento**
+**Ferramentas de desenvolvimento ( Development Tools )**
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm%20Studio%20Code-333333?style=flat&logo=pycharm&logoColor=007ACC)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
