@@ -9,9 +9,10 @@
 
 ## Onde me encontrar ( Where to find me )
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-Gustavo_Brito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-brito/)](https://www.linkedin.com/in/gustavo-brito/)
+[![Gmail Badge](https://img.shields.io/badge/-gustavobrito.bc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Gustavobrito.bc@gmail.com)](mailto:gustavobrito.bc@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Gustavo-Brito-Bechelli?label=follow&style=social)](https://github.com/Gustavo-Brito-Bechelli)
+
 ---
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Brito-Bechelli&show_icons=true&theme=tokyonight) | ![Gustavo Brito's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Brito-Bechelli&layout=donut&theme=tokyonight&hide_border=true) |
 | --- | --- |
