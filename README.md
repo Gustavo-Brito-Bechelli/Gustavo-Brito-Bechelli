@@ -43,3 +43,28 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm%20Studio%20Code-333333?style=flat&logo=pycharm&logoColor=007ACC)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+---
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/Gustavo-Brito-Bechelli/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Gustavo-Brito-Bechelli&column=8&theme=tokyonight&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+### 📍 Profile Visitor Count
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Gustavo-Brito-Bechelli/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
