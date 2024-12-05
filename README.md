@@ -14,6 +14,7 @@
 [![GitHub](https://img.shields.io/github/followers/Gustavo-Brito-Bechelli?label=follow&style=social)](https://github.com/Gustavo-Brito-Bechelli)
 
 ---
+### ⚙️ Analise do Github ( GitHub Analytics )
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Brito-Bechelli&show_icons=true&theme=tokyonight) | ![Gustavo Brito's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Brito-Bechelli&layout=donut&theme=tokyonight&hide_border=true) |
 | --- | --- |
 
@@ -45,7 +46,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 ---
-### 🏆 GitHub Profile Trophy
+### 🏆 Troféus de perfil do GitHub ( GitHub Profile Trophys )
 
 <p align="center">
   <a
@@ -53,7 +54,7 @@
     title="repositório de troféus"
   >
     <img
-      width="800"
+      width="650"
       src="https://github-profile-trophy.vercel.app/?username=Gustavo-Brito-Bechelli&column=8&theme=tokyonight&no-frame=true&no-bg=true"
     />
   </a>
@@ -61,7 +62,7 @@
 
 ---
 
-### 📍 Profile Visitor Count
+### 📍 Contagem de visitantes do perfil ( Profile Visitor Count )
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/Gustavo-Brito-Bechelli/count.svg"
