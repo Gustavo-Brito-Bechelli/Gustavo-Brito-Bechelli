@@ -15,6 +15,7 @@
 
 ---
 ### ⚙️ Analise do Github ( GitHub Analytics )
+
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Brito-Bechelli&show_icons=true&theme=tokyonight) | ![Gustavo Brito's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Brito-Bechelli&layout=donut&theme=tokyonight&hide_border=true) |
 | --- | --- |
 
