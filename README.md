@@ -1,4 +1,4 @@
-## 👋 Olá mundo! Meu nome é Gustavo .<br> 👋 ( Hello word! My name's Gustavo ).
+## 👋 Olá a todos! Meu nome é Gustavo .<br> 👋 ( Hello everyone! My name's Gustavo ).
 
 ---
 ## Sobre mim ( About me )
@@ -34,7 +34,6 @@
 
 ![Flet](https://img.shields.io/badge/-Flet-333333?style=flat&logo=flet)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastAPI)
 
 **DevOps ( DevOps )**
 
