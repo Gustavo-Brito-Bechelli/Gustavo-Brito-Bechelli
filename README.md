@@ -20,7 +20,7 @@
 | --- | --- |
 
 ---
-## 🚀 Minhas abilidades ( My skills )
+## 🚀 Minhas Habilidades ( My Skills )
 
 **Aplicações e Dados ( Applications and Data )**
 
