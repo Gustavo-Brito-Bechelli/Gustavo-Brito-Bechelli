@@ -1,12 +1,11 @@
 ![github-header-image](https://github.com/user-attachments/assets/e9910e11-b3dd-4c48-a87b-52b4ba49b0b9)
 
 ## Sobre mim ( About me )
-🎓 Estudando ( Studying )
-- Português: Tecnico de Informática no Senac Santana..<br>
-- Inglês: IT Technician at Senac Santana.
+🎓 Atualmente, estou estudando no Senac Santana para poder me tornar um desenvolvedor back-end.<br> (🎓 I'm currently studying on Senac Santana to become a back-end developer)
+
+💻 Sou parte do grupo de desenvolvimento do Fresh Photo.<br> (💻 I'm part of Fresh Photo's dev team.)
 
 ## Onde me encontrar ( Where to find me )
-
 [![Linkedin](https://img.shields.io/badge/-Gustavo_Brito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-brito/)](https://www.linkedin.com/in/gustavo-brito/)
 [![Gmail Badge](https://img.shields.io/badge/-gustavobrito.bc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Gustavobrito.bc@gmail.com)](mailto:gustavobrito.bc@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Gustavo-Brito-Bechelli?label=follow&style=social)](https://github.com/Gustavo-Brito-Bechelli)
@@ -38,6 +37,7 @@
 **DevOps ( DevOps )**
 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord)
 
 **Ferramentas de desenvolvimento ( Development Tools )**
 
