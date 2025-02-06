@@ -1,8 +1,6 @@
-## 👋 Olá a todos! Meu nome é Gustavo .<br> 👋 ( Hello everyone! My name's Gustavo ).
+![github-header-image](https://github.com/user-attachments/assets/e9910e11-b3dd-4c48-a87b-52b4ba49b0b9)
 
----
 ## Sobre mim ( About me )
-
 🎓 Estudando ( Studying )
 - Português: Tecnico de Informática no Senac Santana..<br>
 - Inglês: IT Technician at Senac Santana.
