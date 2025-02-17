@@ -6,7 +6,7 @@
 💻 Sou parte do grupo de desenvolvimento do Fresh Photo.<br> (💻 I'm part of Fresh Photo's dev team.)
 
 ## Onde me encontrar ( Where to find me )
-[![Linkedin](https://img.shields.io/badge/-Gustavo_Brito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-brito-bechelli/)](https://www.linkedin.com/in/gustavo-brito-bechelli/)
+[![Linkedin](https://img.shields.io/badge/-GustavoBritoBechelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-brito-bechelli/)](https://www.linkedin.com/in/gustavo-brito-bechelli-404baa322/)
 [![Gmail Badge](https://img.shields.io/badge/-gustavobrito.bc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Gustavobrito.bc@gmail.com)](mailto:gustavobrito.bc@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Gustavo-Brito-Bechelli?label=follow&style=social)](https://github.com/Gustavo-Brito-Bechelli)
 
