@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/e9910e11-b3dd-4c48-a87b-52b4ba49b0b9)
 
 ## Sobre mim ( About me )
-🎓 Atualmente, estou estudando no Senac Santana para poder me tornar um desenvolvedor back-end.<br> (🎓 I'm currently studying on Senac Santana to become a back-end developer)
+🎓 Atualmente, estou estudando através de cursos online para poder me tornar um desenvolvedor back-end.<br> (🎓 I'm currently studying through online courses to become a back-end developer)
 
 💻 Sou parte do grupo de desenvolvimento do Fresh Photo.<br> (💻 I'm part of Fresh Photo's dev team.)
 
