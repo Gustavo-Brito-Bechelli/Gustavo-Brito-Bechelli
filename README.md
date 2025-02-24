@@ -33,6 +33,7 @@
 ![Flet](https://img.shields.io/badge/-Flet-333333?style=flat&logo=flet)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 
 **DevOps ( DevOps )**
 
